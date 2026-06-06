@@ -7,7 +7,7 @@ const services = [
   {
     num: '02',
     title: 'Website Design & Development',
-    desc: 'Fast, responsive, beautifully designed websites built for conversion. From landing pages to full e-commerce platforms — we handle everything.',
+    desc: 'Fast, responsive, beautifully designed websites built for conversion. From landing pages to full e-commerce platforms, we handle everything.',
   },
   {
     num: '03',
@@ -27,12 +27,17 @@ const services = [
   {
     num: '06',
     title: 'SEO & LLM Optimisation',
-    desc: 'Be found — on search engines and in AI tools like ChatGPT and Claude. We optimise your content for both traditional SEO and the next generation of search.',
+    desc: 'Be found on search engines and in AI tools like ChatGPT and Claude. We optimise your content for both traditional SEO and the next generation of search.',
   },
   {
     num: '07',
-    title: 'Cloud Hosting, CDN & Security',
-    desc: 'Reliable, fast and secure hosting infrastructure. We manage your cloud environment so your website is always online, protected and blazing fast.',
+    title: 'Cloud Hosting',
+    desc: 'Reliable, scalable cloud hosting built for performance. We set up and manage your hosting environment so your website stays fast, stable and always online - no downtime, no stress.',
+  },
+  {
+    num: '08',
+    title: 'CDN & Security',
+    desc: 'Protect your digital assets and accelerate global delivery. We implement CDN infrastructure and robust security layers, including SSL, firewalls and DDoS protection, to keep your site safe and lightning fast.',
   },
 ];
 

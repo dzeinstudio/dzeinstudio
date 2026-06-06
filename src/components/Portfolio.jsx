@@ -8,8 +8,7 @@ const clients = [
   { num: '07', name: 'BLV Law', domain: 'blvlaw.co.za', url: 'https://www.blvlaw.co.za/' },
   { num: '08', name: 'Triple-i Consulting', domain: 'iii-consulting.com', url: 'https://iii-consulting.com/' },
   { num: '09', name: 'Zeit Für Kunst', domain: 'zeitfuerkunst.com', url: 'https://zeitfuerkunst.com/' },
-  { num: '10', name: 'ImmoAfrica', domain: 'immoafrica.net', url: 'https://www.immoafrica.net/' },
-  { num: '11', name: 'Models n Maps', domain: 'modelsnmaps.co.za', url: 'https://modelsnmaps.co.za/' },
+  { num: '10', name: 'Models n Maps', domain: 'modelsnmaps.co.za', url: 'https://modelsnmaps.co.za/' },
 ];
 
 export default function Portfolio() {
@@ -20,7 +19,7 @@ export default function Portfolio() {
           <p className="section-label">Our work</p>
           <h2 className="section-title">Websites we've built<br />for real businesses</h2>
         </div>
-        <p>Eleven live websites designed and developed by Dzein Studio — each one crafted to perform, convert and impress.</p>
+        <p>Eleven live websites designed and developed by Dzein Studio, each one crafted to perform, convert and impress.</p>
       </div>
       <div className="portfolio-grid">
         {clients.map((c) => (

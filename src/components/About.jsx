@@ -15,7 +15,7 @@ export default function About() {
             A studio that truly gets small business
           </h2>
           <p className="big-quote">
-            "Great design isn't a luxury — it's the difference between being remembered and being ignored."
+            "Great design isn't a luxury - it's the difference between being remembered and being ignored."
           </p>
           <p>
             We are a Johannesburg-based creative and technology studio dedicated to helping small businesses
@@ -23,7 +23,7 @@ export default function About() {
             cutting-edge digital solutions.
           </p>
           <p>
-            From your first logo to your first AI-powered tool — we're the partner that grows with you.
+            From your first logo to your first AI-powered tool, we're the partner that grows with you.
           </p>
           <a href="#contact" className="btn-primary" style={{ marginTop: '1rem' }}>Work with us</a>
         </div>

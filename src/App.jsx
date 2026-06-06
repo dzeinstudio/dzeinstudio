@@ -1,4 +1,5 @@
 import Nav from './components/Nav';
+import BackToTop from './components/BackToTop';
 import Hero from './components/Hero';
 import Ticker from './components/Ticker';
 import Services from './components/Services';
@@ -20,6 +21,7 @@ export default function App() {
       <Process />
       <Contact />
       <Footer />
+      <BackToTop />
     </>
   );
 }

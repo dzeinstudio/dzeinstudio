@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <section className="hero">
       <div className="hero-deco" />
-      <p className="hero-eyebrow">Design Studio — Johannesburg, ZA</p>
+      <p className="hero-eyebrow">Design Studio - Johannesburg, ZA</p>
       <h1 className="hero-headline">
         We design brands<br />
         that <em>move</em> people<br />
@@ -10,7 +10,7 @@ export default function Hero() {
       </h1>
       <p className="hero-sub">
         Dzein Studio partners with small businesses and startups to build compelling
-        digital presences — from strategy and identity to websites, marketing and
+        digital presences, from strategy and identity to websites, marketing and
         AI-powered experiences.
       </p>
       <div className="hero-actions">

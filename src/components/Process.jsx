@@ -29,7 +29,7 @@ export default function Process() {
           <p className="section-label">How we work</p>
           <h2 className="section-title">A clear process,<br />every time</h2>
         </div>
-        <p>We keep things transparent, collaborative and efficient — so you always know where your project stands.</p>
+        <p>We keep things transparent, collaborative and efficient, so you always know where your project stands.</p>
       </div>
       <div className="process-steps">
         {steps.map((s) => (
