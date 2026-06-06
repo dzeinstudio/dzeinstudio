@@ -3,6 +3,7 @@ export default function Nav() {
     <nav>
       <a href="#" className="logo-wordmark">Dzein<span>.</span>Studio</a>
       <ul className="nav-links">
+        <li><a href="#top">Home</a></li>
         <li><a href="#services">Services</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
         <li><a href="#about">About</a></li>
